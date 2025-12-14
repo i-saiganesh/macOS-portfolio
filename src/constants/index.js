@@ -148,7 +148,7 @@ const socials = [
         text: "Github",
         icon: "/icons/github.svg",
         bg: "#061a3a",
-        link: "https://github.com/saiganeshs-s",
+        link: "https://github.com/i-saiganesh",
         color: "#ffffff",
     },
     {
