@@ -92,3 +92,4 @@ macOS-portfolio/
 ├── public/                # Static assets (Resume PDF, Favicons)
 ├── vite.config.js         # Build Configuration
 └── README.md              # Documentation
+
