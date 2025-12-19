@@ -1,4 +1,4 @@
-# macOS Portfolio.
+# macOS Portfolio
 
 A macOS style portfolio website with draggable windows and interactive UI, built using React and Vite.
 
@@ -28,4 +28,5 @@ npm run build
 
 ## Author
 Sai Ganesh S
+
 
